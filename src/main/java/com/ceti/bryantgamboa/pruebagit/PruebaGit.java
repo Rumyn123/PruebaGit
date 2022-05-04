@@ -16,7 +16,7 @@ public class PruebaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Hola amigo");
+        Utilidades.Mensaje("Hola amigo");
         // TODO code application logic here
     }
     
