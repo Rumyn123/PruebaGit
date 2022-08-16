@@ -18,6 +18,7 @@ public class PruebaGit {
     public static void main(String[] args) {
         Utilidades.Mensaje("Hola amigo");
         Utilidades.Mensaje("Como estas?");
+        Utilidades.Mensaje("Welcome");
         // TODO code application logic here
     }
     
